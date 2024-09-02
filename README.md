@@ -44,5 +44,4 @@ Possíveis erros:
 Trata-se de uma aplicação baseada no curso Clean Architecture Essencial - ASP .NET Core com C# do professor Macoratti. Curso feito através da plataforma Udemy
 
 ## ✒️ Autores
-* **Alan Felipe** - Aluno do curso
-* **José Carlos Macoratti** - Professor e instrutor do curso
+* **Alan Felipe**
